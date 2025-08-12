@@ -2,7 +2,7 @@ locals {
   common_tags = {
     company        = "xyz"
     product        = "rty"
-    functionality  = "tetsing"
+    functionality  = "prod"
     product_owner  = "mnbhh"
     technicalowner = "fghj"
     backup         = "True"
